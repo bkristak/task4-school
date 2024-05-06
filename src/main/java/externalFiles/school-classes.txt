@@ -1,0 +1,4 @@
+Alfa,Jones,Mathematics,Theoretic physics,Statistics,Chemistry,Practical physics
+Beta,Garcia,Mathematics,Programming,Electronic circuit,PCB design
+Gamma,Kumar,Mathematics,Theoretic physics,Programming,Statistics,Practical physics
+Delta,Simek,Mathematics,Theoretic physics,Programming,CAD Modelling,Mechanical design,Statistics

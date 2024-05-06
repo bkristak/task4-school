@@ -1,0 +1,35 @@
+Alfa,Matthias,Berg,2002-12-11,FINNISH,MALE,Mathematics=4,Theoretic physics=4,Statistics=3,Chemistry=4,Practical physics=2
+Alfa,Hanna,Sorensen,2001-10-02,DANISH,FEMALE,Mathematics=3,Theoretic physics=4,Statistics=4,Chemistry=4,Practical physics=2
+Alfa,Lucas,Hansen,2000-02-08,DANISH,MALE,Mathematics=1,Theoretic physics=4,Statistics=3,Chemistry=2,Practical physics=5
+Alfa,Sara,Johansen,2003-08-20,SWEDISH,FEMALE,Mathematics=2,Theoretic physics=2,Statistics=2,Chemistry=1,Practical physics=3
+Alfa,Carlos,Garcia,2000-06-04,SPANISH,MALE,Mathematics=1,Theoretic physics=3,Statistics=1,Chemistry=4,Practical physics=2
+Alfa,Maria,Kovacs,2001-01-17,HUNGARIAN,FEMALE,Mathematics=3,Theoretic physics=3,Statistics=4,Chemistry=4,Practical physics=3
+Beta,Juan,Sainz,2002-07-22,SPANISH,MALE,Mathematics=3,Programming=4,Electronic circuit=3,PCB design=4
+Beta,Sara,Nowak,2003-09-13,POLISH,FEMALE,Mathematics=3,Programming=4,Electronic circuit=3,PCB design=2
+Beta,Antonio,Rossi,2000-10-08,ITALIAN,MALE,Mathematics=1,Programming=2,Electronic circuit=1,PCB design=3
+Beta,Klara,Nagy,2001-03-17,HUNGARIAN,FEMALE,Mathematics=4,Programming=4,Electronic circuit=4,PCB design=4
+Beta,Emma,Schmidt,2002-05-31,GERMAN,FEMALE,Mathematics=3,Programming=4,Electronic circuit=1,PCB design=4
+Beta,Lucas,Jansen,2003-07-02,DUTCH,MALE,Mathematics=1,Programming=1,Electronic circuit=1,PCB design=2
+Beta,Anna,Kubica,2000-09-12,POLISH,FEMALE,Mathematics=2,Programming=4,Electronic circuit=3,PCB design=4
+Beta,Lenka,Slovakova,2002-11-30,SLOVAK,FEMALE,Mathematics=5,Programming=3,Electronic circuit=4,PCB design=4
+Beta,Michal,Lewandowski,2001-12-15,POLISH,MALE,Mathematics=2,Programming=4,Electronic circuit=3,PCB design=4
+Beta,Caroline,Zetterberg,2000-01-07,SWEDISH,FEMALE,Mathematics=1,Programming=1,Electronic circuit=1,PCB design=2
+Beta,David,Pavlovic,2003-02-19,CROATIAN,MALE,Mathematics=2,Programming=4,Electronic circuit=1,PCB design=4
+Beta,Emilia,Wojtila,2000-04-03,POLISH,FEMALE,Mathematics=1,Programming=1,Electronic circuit=1,PCB design=1
+Gamma,Henrik,Andersen,2002-12-11,DANISH,MALE,Mathematics=4,Theoretic physics=4,Programming=3,Statistics=4,Practical physics=2
+Gamma,Sofia,Bjornsen,2001-10-02,GERMAN,FEMALE,Mathematics=3,Theoretic physics=1,Programming=4,Statistics=4,Practical physics=2
+Gamma,Lukas,Cech,2000-02-08,CZECH,MALE,Mathematics=1,Theoretic physics=1,Programming=1,Statistics=1,Practical physics=2
+Gamma,Marta,Johansson,2003-08-20,SWEDISH,FEMALE,Mathematics=2,Theoretic physics=4,Programming=2,Statistics=4,Practical physics=1
+Gamma,Pablo,Ruiz,2000-06-04,SPANISH,MALE,Mathematics=1,Theoretic physics=3,Programming=1,Statistics=4,Practical physics=2
+Gamma,Maria,Fabri,2001-01-17,HUNGARIAN,FEMALE,Mathematics=3,Theoretic physics=4,Programming=3,Statistics=4,Practical physics=2
+Delta,Juan,Mata,2002-07-22,SPANISH,MALE,Mathematics=3,Theoretic physics=4,Programming=1,CAD Modelling=4,Mechanical design=2,Statistics=1
+Delta,Sara,Novakova,2003-09-13,CZECH,FEMALE,Mathematics=1,Theoretic physics=4,Programming=3,CAD Modelling=2,Mechanical design=1,Statistics=1
+Delta,Antonio,Biaggio,2000-10-08,ITALIAN,MALE,Mathematics=2,Theoretic physics=4,Programming=1,CAD Modelling=3,Mechanical design=3,Statistics=2
+Delta,Klara,Fekete,2001-03-17,HUNGARIAN,FEMALE,Mathematics=4,Theoretic physics=4,Programming=4,CAD Modelling=4,Mechanical design=3,Statistics=3
+Delta,Emma,Merkel,2002-05-31,GERMAN,FEMALE,Mathematics=2,Theoretic physics=1,Programming=1,CAD Modelling=3,Mechanical design=2,Statistics=1
+Delta,David,Klujvert,2003-07-02,DUTCH,MALE,Mathematics=1,Theoretic physics=4,Programming=3,CAD Modelling=2,Mechanical design=5,Statistics=1
+Delta,Anna,Krempaska,2000-09-12,SLOVAK,FEMALE,Mathematics=2,Theoretic physics=4,Programming=1,CAD Modelling=4,Mechanical design=3,Statistics=2
+Delta,Lena,Muller,2002-11-30,AUSTRIAN,FEMALE,Mathematics=1,Theoretic physics=2,Programming=1,CAD Modelling=2,Mechanical design=2,Statistics=1
+Delta,Jaromir,Cervinka,2003-02-19,CZECH,OTHER,Mathematics=4,Theoretic physics=4,Programming=3,CAD Modelling=5,Mechanical design=5,Statistics=4
+Delta,Emilia,Vasaryova,2000-04-03,SLOVAK,FEMALE,Mathematics=1,Theoretic physics=2,Programming=1,CAD Modelling=2,Mechanical design=1,Statistics=1
+Delta,Nina,Chabbannes,2001-07-14,FRENCH,FEMALE,Mathematics=1,Theoretic physics=1,Programming=1,CAD Modelling=1,Mechanical design=2,Statistics=2

@@ -1,0 +1,10 @@
+Mathematics,Garcia
+Theoretic physics,Kumar
+Programming,Smith
+Chemistry,Jones
+CAD Modelling,Simek
+Electronic circuit,Wang
+Statistics,Garcia
+PCB design,Wang
+Practical physics,Kumar
+Mechanical design,Simek
